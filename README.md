@@ -24,6 +24,6 @@ Pelo [Swagger](https://socio-torcedor-api.herokuapp.com/swagger-ui.html) você v
 ## Execução
 
 Foi utilizado o Heroku como plataforma em nuvem para fazer deploy da aplicação. 
-```campanha
+```socio-torcedor
 https://socio-torcedor-api.herokuapp.com
 ```
