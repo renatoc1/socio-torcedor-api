@@ -15,7 +15,6 @@ public class SocioTorcedorTO {
 
 	private String nomeCompleto;
 
-	@JsonFormat(pattern = "dd/MM/yyyy")
 	private LocalDate dtNascimento;
 	
 	private Long idTimeCoracao;
